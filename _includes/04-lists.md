@@ -1,0 +1,6 @@
+- Music
+- Travel
+- Technology
+- Food
+- Drink
+- Cook
